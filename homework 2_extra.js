@@ -12,4 +12,4 @@ numIdenticalPairs = function(arr) {
     };
     return count;
 }
-console.log(numIdenticalPairs(arr)); // returns 6
+console.log(numIdenticalPairs(arr)); // returns 4
